@@ -3,16 +3,18 @@
 > ML Kit의 Face Detection 기술을 활용한 Touchless 모바일 제어 기술          
 > Touchless mobile control using ML Kit's Face Detection technology
 
-01-03 산학프로젝트
+[01-03 산학프로젝트 문서](https://space.malangmalang.com/open?fileId=m:0:944584451&lang=ko)             
+[깃허브](https://github.com/Team-SLL/Touchless-Control)                    
 
-[문서](https://space.malangmalang.com/open?fileId=m:0:944584451&lang=ko)
-[깃허브](https://github.com/Team-SLL/Touchless-Control)
+#### 팀원
 
-2016039085 박시현
-2018068005 전아현
-2019038037 이하은
+2016039085 박시현        
+2018068005 전아현            
+2019038037 이하은         
 
-지도교수 : 이종연 교수님
+#### 지도교수
+
+      이종연 교수님
 
 ## 주요 기술
 
