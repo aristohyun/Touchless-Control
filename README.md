@@ -5,6 +5,9 @@
 
 01-03 산학프로젝트
 
+[문서](https://space.malangmalang.com/open?fileId=m:0:944584451&lang=ko)
+[깃허브](https://github.com/Team-SLL/Touchless-Control)
+
 2016039085 박시현
 2018068005 전아현
 2019038037 이하은
@@ -17,4 +20,3 @@
 2. 터치 기능을 사용하지 않고, 얼굴 방향 분석, 시선 추적등을 통해 좌표값 등을 계산한다
 3. 계산된 좌표를 통해, 사용자는 화면을 터치 하지 않고 자신의 얼굴 방향, 시선등을 마우스 처럼 하여 모바일 제어를 할 수 있게 된다
 
-[문서](https://space.malangmalang.com/open?fileId=m:0:944584451&lang=ko)
