@@ -24,3 +24,11 @@
 2. 터치 기능을 사용하지 않고, 얼굴 방향 분석, 시선 추적등을 통해 좌표값 등을 계산한다
 3. 계산된 좌표를 통해, 사용자는 화면을 터치 하지 않고 자신의 얼굴 방향, 시선등을 마우스 처럼 하여 모바일 제어를 할 수 있게 된다
 
+
+# 일정 : WBS
+
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/32366711/147729657-73aed7f0-4f8d-4bfa-9a9d-569fe7ec8739.png">
+
+# 패키지 다이어그램
+
+![image](https://user-images.githubusercontent.com/32366711/147729839-e02ee0e5-02d4-49c6-b1c0-908ba3abdc2d.png)
